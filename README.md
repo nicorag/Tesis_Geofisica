@@ -1,1 +1,1 @@
-# Tesis_Geofisica
+# Repositorio de algunas Tesis de Geofísica (UNLP)
